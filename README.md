@@ -1,4 +1,4 @@
-# NexGrow.io Audit Tool v3.0
+# scalexa.co Audit Tool v3.0
 
 A free, single-file SaaS audit tool for websites and Instagram profiles. Paste any URL or Instagram handle and get a deep, actionable report in seconds — no sign-up required.
 
